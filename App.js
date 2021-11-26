@@ -8,7 +8,10 @@ export default function App() {
   return (
     <View style={styles.container}>
       
-   <CarItem />
+   <CarItem name={"Model 3"} 
+   tagline={"Starting from $50,000"}
+   image={require('./assets/images/Model3.jpeg')}
+   />
 
 
       <StatusBar style="auto" />
