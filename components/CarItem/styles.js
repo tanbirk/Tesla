@@ -32,6 +32,10 @@ subtitle:{
       color: '#5c5e62'
 
 },
+subtitleCTA:{
+
+      textDecorationLine: 'underline'
+},
 image:{
       width: '100%',
       height: '100%',
